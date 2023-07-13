@@ -1,2 +1,26 @@
 app:
   title: "~ Limited どこでもドア ~"
+
+groups:
+
+- name: "常用文档"
+  items:
+  - title: "C/C++ 参考手册"
+    url: https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5
+  - title: "Python 文档"
+    url: https://docs.python.org/zh-cn/3/index.html
+  - title: "MDN Web Docs"
+    url: https://developer.mozilla.org/zh-CN/
+  - title: "Linux man pages online"
+    url: https://man7.org/linux/man-pages/index.html
+
+- name: "SWPU 校外服务"
+  items:
+  - title: 服务门户
+    url: "https://my.swpu.edu.cn/EIP/nonlogin/homePage.htm"
+  - title: "学校首页"
+    url: "https://www-swpu-edu-cn-s.vpn.swpu.edu.cn:8118/"
+  - title: 教务系统
+    url: "https://jwxt-swpu-edu-cn.vpn.swpu.edu.cn:8118/"
+  - title: 教务信息化应用平台
+    url: "https://deanapp-swpu-edu-cn-s.vpn.swpu.edu.cn:8118/"

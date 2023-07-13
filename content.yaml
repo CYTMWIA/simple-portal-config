@@ -20,6 +20,10 @@ groups:
     url: https://matplotlib.org/
   - title: "Jinja2 模板设计者文档"
     url: https://docs.jinkan.org/docs/jinja2/templates.html
+  - title: "scikit-learn User Guide"
+    url: https://scikit-learn.org/stable/user_guide.html
+  - title: "PyTorch documentation"
+    url: https://pytorch.org/docs/stable/index.html
 
 - name: "其它文档"
   items:

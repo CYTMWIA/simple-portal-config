@@ -3,12 +3,26 @@ app:
 
 groups:
 
-- name: "常用文档"
+- name: "C/C++"
   items:
   - title: "C/C++ 参考手册"
     url: https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5
-  - title: "Python 文档"
+  - title: "C++ Core Guidelines"
+    url: https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+  - title: "Google C++ 风格指南"
+    url: https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/
+
+- name: "Python"
+  items:
+  - title: "Python 官方文档"
     url: https://docs.python.org/zh-cn/3/index.html
+  - title: "Matplotlib"
+    url: https://matplotlib.org/
+  - title: "Jinja2 模板设计者文档"
+    url: https://docs.jinkan.org/docs/jinja2/templates.html
+
+- name: "其它文档"
+  items:
   - title: "MDN Web Docs"
     url: https://developer.mozilla.org/zh-CN/
   - title: "Linux man pages online"

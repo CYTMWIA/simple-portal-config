@@ -28,6 +28,24 @@ groups:
   - title: "Linux man pages online"
     url: https://man7.org/linux/man-pages/index.html
 
+- name: "Linux"
+  items:
+  - title: "Debian"
+    url: https://www.debian.org/
+  - title: "Debian 软件包搜索"
+    url: https://www.debian.org/distrib/packages#search_packages
+  - title: "ArchWiki"
+    url: https://wiki.archlinux.org/
+
+- name: "软件镜像站"
+  items:
+  - title: "TUNA"
+    url: https://mirrors.tuna.tsinghua.edu.cn/
+  - title: "USTC"
+    url: https://mirrors.ustc.edu.cn/
+  - title: "MirrorZ"
+    url: https://mirrorz.org/
+
 - name: "SWPU 校外服务"
   items:
   - title: 服务门户

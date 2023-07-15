@@ -27,6 +27,8 @@ groups:
 
 - name: "其它文档"
   items:
+  - title: "Ansible.Builtin Collection"
+    url: https://docs.ansible.com/ansible/latest/collections/ansible/builtin/index.html
   - title: "MDN Web Docs"
     url: https://developer.mozilla.org/zh-CN/
   - title: "Linux man pages online"

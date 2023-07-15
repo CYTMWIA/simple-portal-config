@@ -11,6 +11,8 @@ groups:
     url: https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
   - title: "Google C++ 风格指南"
     url: https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/
+  - title: "CMake Reference"
+    url: https://cmake.org/cmake/help/latest/index.html
 
 - name: "Python"
   items:

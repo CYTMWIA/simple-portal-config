@@ -68,3 +68,10 @@ groups:
     url: "https://jwxt-swpu-edu-cn.vpn.swpu.edu.cn:8118/"
   - title: 教务信息化应用平台
     url: "https://deanapp-swpu-edu-cn-s.vpn.swpu.edu.cn:8118/"
+
+- name: "常用软件"
+  items:
+  - title: "Visual Studio Code"
+    url: https://code.visualstudio.com/
+  - title: "Pot
+    url: https://github.com/pot-app/pot-desktop

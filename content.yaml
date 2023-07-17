@@ -73,5 +73,14 @@ groups:
   items:
   - title: "Visual Studio Code"
     url: https://code.visualstudio.com/
-  - title: "Pot
+  - title: "Pot"
     url: https://github.com/pot-app/pot-desktop
+
+- name: "About"
+  items:
+  - title: "simple-portal"
+    url: https://github.com/CYTMWIA/simple-portal
+  - title: "simple-portal-config"
+    url: https://github.com/CYTMWIA/simple-portal-config
+  - title: "CYTMWIA"
+    url: https://github.com/CYTMWIA

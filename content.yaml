@@ -37,6 +37,8 @@ groups:
     url: https://developer.mozilla.org/zh-CN/
   - title: "Linux man pages online"
     url: https://man7.org/linux/man-pages/index.html
+  - title: "ZeroMQ Documentation"
+    url: https://zeromq.org/get-started/
 
 - name: "Linux"
   items:

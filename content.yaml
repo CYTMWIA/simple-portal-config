@@ -77,6 +77,8 @@ groups:
     url: https://code.visualstudio.com/
   - title: "Pot"
     url: https://github.com/pot-app/pot-desktop
+  - title: "Joplin"
+    url: https://github.com/laurent22/joplin
 
 - name: "About"
   items:

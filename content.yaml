@@ -15,6 +15,8 @@ groups:
     url: https://cmake.org/cmake/help/latest/index.html
   - title: "xmake 在线文档"
     url: https://xmake.io/#/zh-cn/getting_started
+  - title: "xrepo Windows 包"
+    url: https://xrepo.xmake.io/#/packages/windows
 
 - name: "Python"
   items:

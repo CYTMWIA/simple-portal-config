@@ -13,10 +13,10 @@ groups:
     url: https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/
   - title: "CMake Reference"
     url: https://cmake.org/cmake/help/latest/index.html
-  - title: "xmake 在线文档"
-    url: https://xmake.io/#/zh-cn/getting_started
-  - title: "xrepo Windows 包"
-    url: https://xrepo.xmake.io/#/packages/windows
+  # - title: "xmake 在线文档"
+  #   url: https://xmake.io/#/zh-cn/getting_started
+  # - title: "xrepo Windows 包"
+  #   url: https://xrepo.xmake.io/#/packages/windows
 
 - name: "Python"
   items:

@@ -13,10 +13,10 @@ groups:
     url: https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/
   - title: "CMake Reference"
     url: https://cmake.org/cmake/help/latest/index.html
-  # - title: "xmake 在线文档"
-  #   url: https://xmake.io/#/zh-cn/getting_started
-  # - title: "xrepo Windows 包"
-  #   url: https://xrepo.xmake.io/#/packages/windows
+  - title: "xmake 文档仓库"
+    url: https://github.com/xmake-io/xmake-docs/tree/master/zh-cn
+  - title: "xrepo Windows 包"
+    url: https://xrepo.xmake.io/#/packages/windows
 
 - name: "Python"
   items:
@@ -31,12 +31,19 @@ groups:
   - title: "PyTorch documentation"
     url: https://pytorch.org/docs/stable/index.html
 
+- name: "Web 开发"
+  items:
+  - title: "MDN Web Docs"
+    url: https://developer.mozilla.org/zh-CN/
+  - title: "Vue.js 文档"
+    url: https://cn.vuejs.org/guide/introduction.html
+  - title: "Vite 官方中文文档"
+    url: https://cn.vitejs.dev/guide/
+
 - name: "其它文档"
   items:
   - title: "Ansible.Builtin Collection"
     url: https://docs.ansible.com/ansible/latest/collections/ansible/builtin/index.html
-  - title: "MDN Web Docs"
-    url: https://developer.mozilla.org/zh-CN/
   - title: "Linux man pages online"
     url: https://man7.org/linux/man-pages/index.html
   - title: "ZeroMQ Documentation"

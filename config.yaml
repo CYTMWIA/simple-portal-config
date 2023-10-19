@@ -5,7 +5,7 @@ app:
 
 groups:
 
-- name: "C/C++"
+- title: "C/C++"
   items:
   - title: "C/C++ 参考手册"
     url: https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5
@@ -20,7 +20,7 @@ groups:
   - title: "xrepo Windows 包"
     url: https://xrepo.xmake.io/#/packages/windows
 
-- name: "Python"
+- title: "Python"
   items:
   - title: "Python 官方文档"
     url: https://docs.python.org/zh-cn/3/index.html
@@ -33,7 +33,7 @@ groups:
   - title: "PyTorch documentation"
     url: https://pytorch.org/docs/stable/index.html
 
-- name: "Web 开发"
+- title: "Web 开发"
   items:
   - title: "MDN Web Docs"
     url: https://developer.mozilla.org/zh-CN/
@@ -42,7 +42,7 @@ groups:
   - title: "Vite 官方中文文档"
     url: https://cn.vitejs.dev/guide/
 
-- name: "其它文档"
+- title: "其它文档"
   items:
   - title: "Ansible.Builtin Collection"
     url: https://docs.ansible.com/ansible/latest/collections/ansible/builtin/index.html
@@ -51,7 +51,7 @@ groups:
   - title: "ZeroMQ Documentation"
     url: https://zeromq.org/get-started/
 
-- name: "Linux"
+- title: "Linux"
   items:
   - title: "Debian"
     url: https://www.debian.org/
@@ -60,7 +60,7 @@ groups:
   - title: "ArchWiki"
     url: https://wiki.archlinux.org/
 
-- name: "软件镜像站"
+- title: "软件镜像站"
   items:
   - title: "TUNA"
     url: https://mirrors.tuna.tsinghua.edu.cn/
@@ -71,7 +71,7 @@ groups:
   - title: "MirrorZ"
     url: https://mirrorz.org/
 
-- name: "SWPU 校外服务"
+- title: "SWPU 校外服务"
   items:
   - title: 服务门户
     url: "https://my.swpu.edu.cn/EIP/nonlogin/homePage.htm"
@@ -82,7 +82,7 @@ groups:
   - title: 教务信息化应用平台
     url: "https://deanapp-swpu-edu-cn-s.vpn.swpu.edu.cn:8118/"
 
-- name: "常用软件"
+- title: "常用软件"
   items:
   - title: "Visual Studio Code"
     url: https://code.visualstudio.com/
@@ -93,7 +93,7 @@ groups:
   - title: "Joplin"
     url: https://github.com/laurent22/joplin
 
-- name: "About"
+- title: "About"
   items:
   - title: "simple-portal"
     url: https://github.com/CYTMWIA/simple-portal
@@ -101,3 +101,5 @@ groups:
     url: https://github.com/CYTMWIA/simple-portal-config
   - title: "CYTMWIA"
     url: https://github.com/CYTMWIA
+  - title: "CYTMWIA's Blog"
+    url: https://cytmwia.com/

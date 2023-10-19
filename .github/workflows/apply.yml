@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Upload conent.yaml
-        run: 'curl -X POST -H "Authorization: ${{ secrets.API_KEY }}" -F "file=@content.yaml" https://${{ secrets.DOMAIN_NAME }}/content'
+        run: 'curl -H "X-Authorization: ${{ secrets.API_KEY }}" -T config.yaml https://${{ secrets.DOMAIN_NAME }}/config'

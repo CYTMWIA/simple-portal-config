@@ -1,5 +1,7 @@
 app:
   title: "~ Limited どこでもドア ~"
+  keys:
+  - "f807550bcbd47a0947a7edf6b45d957bd9a258e1434cd0949e8dcd5bc1313bde"
 
 groups:
 

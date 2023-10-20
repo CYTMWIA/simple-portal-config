@@ -33,6 +33,15 @@ groups:
   - title: "PyTorch documentation"
     url: https://pytorch.org/docs/stable/index.html
 
+- title: "Rust"
+  items:
+  - title: "Rust 程序设计语言"
+    url: https://kaisery.github.io/trpl-zh-cn/
+  - title: "The Cargo Book"
+    url: https://doc.rust-lang.org/cargo/index.html
+  - title: "crates.io"
+    url: https://crates.io/
+
 - title: "Web 开发"
   items:
   - title: "MDN Web Docs"

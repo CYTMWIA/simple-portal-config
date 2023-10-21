@@ -81,8 +81,10 @@ groups:
     url: https://mirrors.ustc.edu.cn/
   - title: "USTC LUG's repo file generator"
     url: https://mirrors.ustc.edu.cn/repogen/
-  - title: "MirrorZ"
-    url: https://mirrorz.org/
+  - title: "校园网联合镜像站"
+    url: https://mirrors.cernet.edu.cn/list
+  # - title: "MirrorZ"
+  #   url: https://mirrorz.org/
 
 - title: "SWPU 校外服务"
   items:

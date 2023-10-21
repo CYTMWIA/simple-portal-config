@@ -35,6 +35,8 @@ groups:
 
 - title: "Rust"
   items:
+  - title: "Rust"
+    url: https://www.rust-lang.org/
   - title: "Rust 程序设计语言"
     url: https://kaisery.github.io/trpl-zh-cn/
   - title: "The Cargo Book"
@@ -42,7 +44,7 @@ groups:
   - title: "crates.io"
     url: https://crates.io/
 
-- title: "Web 开发"
+- title: "Web/JavaScript"
   items:
   - title: "MDN Web Docs"
     url: https://developer.mozilla.org/zh-CN/
@@ -50,6 +52,8 @@ groups:
     url: https://cn.vuejs.org/guide/introduction.html
   - title: "Vite 官方中文文档"
     url: https://cn.vitejs.dev/guide/
+  - title: "npm"
+    url: https://www.npmjs.com/
 
 - title: "其它文档"
   items:

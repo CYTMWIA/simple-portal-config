@@ -61,8 +61,14 @@ groups:
     url: https://docs.ansible.com/ansible/latest/collections/ansible/builtin/index.html
   - title: "Linux man pages online"
     url: https://man7.org/linux/man-pages/index.html
-  - title: "ZeroMQ Documentation"
-    url: https://zeromq.org/get-started/
+  # - title: "ZeroMQ Documentation"
+  #   url: https://zeromq.org/get-started/
+  - title: "Mermaid Live Editor"
+    url: https://mermaid.live/
+  - title: "LaTeX Cheat Sheet"
+    url: https://quickref.me/latex
+  - title: "Markdown Cheat Sheet"
+    url: https://quickref.me/markdown
 
 - title: "Linux"
   items:

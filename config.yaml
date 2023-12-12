@@ -78,6 +78,10 @@ groups:
     url: https://www.debian.org/distrib/packages#search_packages
   - title: "ArchWiki"
     url: https://wiki.archlinux.org/
+  - title: "Arch Linux - Package Search"
+    url: https://archlinux.org/packages/
+  - title: "Arch Linux - AUR"
+    url: https://aur.archlinux.org/
 
 - title: "软件镜像站"
   items:
